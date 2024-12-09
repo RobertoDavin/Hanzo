@@ -43,6 +43,6 @@ You can either run Hanzo by executing the Python file after cloning the reposito
 **---------------------**
 
 For detailed instructions on how to use Hanzo, refer to the user manual available in this repository:  
-[**Hanzo Manual Book (PDF)**](./https://github.com/RobertoDavin/Hanzo/blob/main/Hanzo%20Manual%20Book.pdf)
+[**Hanzo Manual Book (PDF)**](./Hanzo/Hanzo Manual Book.pdf)
 
 ---
