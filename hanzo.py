@@ -352,7 +352,7 @@ class RecognitionPage(QWidget):
           model_path = "efficientdet.onnx"
           class_label_used = class_labels
         elif self.model_type == 2:
-          model_path = "efficientdet2.onnx"
+          model_path = "efficientdet_add.onnx"
           class_label_used = class_labels2
           
         session = ort.InferenceSession(resource_path(model_path))
