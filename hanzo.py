@@ -51,9 +51,9 @@ class_labels = ["mandarin",   "1 ban 4",   "1 jie 2",   "1 shu 4",   "1 tong 2",
                         "you 4",    "yu 3",    "yu 4",    "yuan 2",    "zan 4",    
                         "zha 2",    "zhang 1",    "zhang 4",    "zhao 4",    "zhe 4",    
                         "zhen 3",    "zhen 4",    "zheng 4",    "zhi 3",    "zhi 4",    
-                        "zhu 1",    "zong 1",    "zui 4",    "zun 1",    "zuo 3",  ]
+                        "zhu 1",    "zong 1",    "zui 4",    "zun 1",    "zuo 3"]
 
-class_labels2 = ["mandarin", "ni 3", "ta 1", "wo 3"  ]
+class_labels2 = ["mandarin", "ni 3", "ta 1", "wo 3"]
 
 def mapping_pinyin(pinyin):
     group_mapping = {
