@@ -528,7 +528,7 @@ class HelpPage(QWidget):
                             "1. To start using Hanzo, click on 'Start Recognition'.\n"
                             "2. Click 'Upload Image' to upload an image of a Mandarin character.\n"
                             "3. Click 'Send' to get the predicted Pinyin for the character.\n"
-                            "4. Click 'Add Charcater' to add a new character's picture and input the Pinyin for the character.\n"
+                            "4. Click 'Add Character' to add a new character's picture and input the Pinyin for the character.\n"
                             "5. The recognition result will be shown below the image preview of the result page.\n"
                             "6. Click 'Back to Home' to return to the home page.\n"
                             "7. Use the 'Back' buttons to return to the previous pages.\n"
