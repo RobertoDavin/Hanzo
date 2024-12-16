@@ -13,7 +13,7 @@ You can either run Hanzo by executing the Python file after cloning the reposito
 ### **Option 1: Run Hanzo.exe from Google Drive**
 
 1. Download the executable file from the following link:  
-   [**Google Drive - Hanzo.exe**](https://drive.google.com/file/d/178PspjTCC7S748CsE5axyKFszEsoofZi/view?usp=sharing)
+   [**Google Drive - Hanzo.exe**](https://drive.google.com/file/d/18Z67a17D3GihLh_XQn5Ysh16l7_KKEG_/view?usp=sharing)
 
 2. Double-click the `.exe` file to launch the application.
 
